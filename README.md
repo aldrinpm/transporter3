@@ -9,6 +9,35 @@ Built as a design exploration using the free, MIT-licensed components from
 **night-drive instrumentation** aesthetic: near-black asphalt canvas, signal-amber accents,
 glass panels, mono telemetry labels, and editorial section numbering (01 — THE ROUTE … 05 — QUESTIONS).
 
+## Screenshots
+
+Captured from the **live production site** (`transporter.transporter-landing.workers.dev`),
+not a dev server. Higher-res originals live in `docs/screenshots/` — click any image to open it full-size.
+
+<p align="center">
+  <a href="docs/screenshots/hero.png"><img width="880" src="docs/screenshots/hero.png" alt="Transporter hero — headline with interactive booking preview card" /></a><br/>
+  <em>Hero — interactive booking-preview card: route, timing and estimate, computed live</em>
+</p>
+
+| 03 — Pricing (published rate card) | 04 — Standards (instrumented gauges) |
+| --- | --- |
+| <a href="docs/screenshots/pricing.png"><img width="470" src="docs/screenshots/pricing.png" alt="Pricing section — itemised example rate card totalling ₱1,360" /></a> | <a href="docs/screenshots/standards.png"><img width="470" src="docs/screenshots/standards.png" alt="Standards section — instrument tachometer gauge card" /></a> |
+
+<p align="center">
+  <a href="docs/screenshots/cta-band.png"><img width="880" src="docs/screenshots/cta-band.png" alt="CTA band — Put your car in a professional's hands over a halftone flow field" /></a><br/>
+  <em>CTA band — halftone flow field behind the closing call to action</em>
+</p>
+
+<p align="center">
+  <a href="docs/screenshots/mobile-hero.png"><img width="320" src="docs/screenshots/mobile-hero.png" alt="Mobile 390px view — hamburger nav, stacked pills, booking card" /></a><br/>
+  <em>Mobile (390 px) — hamburger navigation, stacked utility pills, booking sheet</em>
+</p>
+
+<details>
+<summary><strong>Full-length page capture (desktop, 1440 px)</strong></summary>
+<p align="center"><a href="docs/screenshots/full-page.png"><img width="760" src="docs/screenshots/full-page.png" alt="Entire Transporter large page captured top to footer" /></a></p>
+</details>
+
 ---
 
 ## Tech stack
