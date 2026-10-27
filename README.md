@@ -119,28 +119,30 @@ node scripts/mshots.mjs       # 390px mobile: hero + gauge card
 
 ## Deployment (Cloudflare, free tier)
 
-Live at **https://transporter.transporter-landing.workers.dev** — served as static assets
-from Cloudflare's edge network (unlimited bandwidth/requests on the free Workers plan, no
-credit card, automatic HTTPS).
+Live at **https://transporter3.pages.dev** — legacy Cloudflare Pages project `transporter3`
+(direct upload), served from Cloudflare's edge: unlimited bandwidth/requests, free HTTPS, no
+credit card. Fallback copy on the identical build stays up at the older URL:
+https://transporter.transporter-landing.workers.dev (a Workers deployment kept as a backup).
 
-Host: latest Cloudflare Pages (now merged into Workers). Deployed via `wrangler v4` using
-the `@cloudflare/vite-plugin` flow:
+Deployed via `wrangler v4` with the legacy Pages flow (`wrangler` 4 otherwise delegates new
+projects to Workers; the project itself was created through the Pages REST API):
 
 ```bash
 npx wrangler login      # one-time OAuth (browser)
-npm run deploy          # tsc + vite build → wrangler deploy (uses wrangler.jsonc)
+npm run deploy          # build → clean-pages.mjs → wrangler pages deploy (project transporter3)
 ```
 
-- `wrangler.jsonc` points at worker `transporter`; `assets.not_found_handling:
-  "single-page-application"` serves the shell for unknown paths.
-- A local `wrangler dev` preview is wired to `npm run preview`.
+- `scripts/clean-pages.mjs` strips the `@cloudflare/vite-plugin` Worker artifacts
+  (`dist/wrangler.json`, `dist/.assetsignore`) before the Pages upload.
+- Local `wrangler dev` preview is wired to `npm run preview` (uses the Worker fallback).
 
 ### Continuous deployment (GitHub → Cloudflare)
 
 Source: <https://github.com/aldrinpm/transporter3> (public). Every push to `main` runs
-`.github/workflows/deploy.yml` → `npm run deploy` → updated site is live ~2 min later.
-Requires repo secrets `CLOUDFLARE_API_TOKEN` (Workers Scripts: Edit, Account Settings:
-Read) and `CLOUDFLARE_ACCOUNT_ID`; manual runs available via *workflow_dispatch*.
+`.github/workflows/deploy.yml` → `wrangler pages deploy transporter3` → updated site is live
+~2 min later at https://transporter3.pages.dev. Requires repo secrets `CLOUDFLARE_API_TOKEN`
+(**Cloudflare Pages: Edit** + Account Settings: Read) and `CLOUDFLARE_ACCOUNT_ID`; manual
+runs available via *workflow_dispatch*.
 
 ## Project layout
 
