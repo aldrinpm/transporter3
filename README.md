@@ -106,6 +106,13 @@ npm run deploy          # tsc + vite build → wrangler deploy (uses wrangler.js
   "single-page-application"` serves the shell for unknown paths.
 - A local `wrangler dev` preview is wired to `npm run preview`.
 
+### Continuous deployment (GitHub → Cloudflare)
+
+Source: <https://github.com/aldrinpm/transporter3> (public). Every push to `main` runs
+`.github/workflows/deploy.yml` → `npm run deploy` → updated site is live ~2 min later.
+Requires repo secrets `CLOUDFLARE_API_TOKEN` (Workers Scripts: Edit, Account Settings:
+Read) and `CLOUDFLARE_ACCOUNT_ID`; manual runs available via *workflow_dispatch*.
+
 ## Project layout
 
 ```
