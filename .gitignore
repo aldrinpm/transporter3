@@ -1,0 +1,12 @@
+# Node
+node_modules/
+*.log
+
+# Build & deploy artifacts
+dist/
+.wrangler/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.local
