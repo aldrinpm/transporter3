@@ -1,0 +1,17 @@
+{
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "dist/",
+    ".wrangler/",
+    ".shots/"
+  ]
+}

@@ -10,3 +10,11 @@ dist/
 .DS_Store
 Thumbs.db
 *.local
+
+# Obsidian — vault config + notes are committed; only personal state is ignored
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# graphify internal cache (graph + exports are committed)
+graphify-out/cache/

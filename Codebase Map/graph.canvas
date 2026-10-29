@@ -1,0 +1,2970 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Community 0",
+      "x": 0,
+      "y": 0,
+      "width": 1320,
+      "height": 720,
+      "color": "1"
+    },
+    {
+      "id": "n_ref_cloudflare_vite_plugin",
+      "type": "file",
+      "file": "@cloudflarevite-plugin.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_cloudflare_vite_plugin",
+      "type": "file",
+      "file": "@cloudflarevite-plugin@1.65.0.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_tailwindcss_vite",
+      "type": "file",
+      "file": "@tailwindcssvite.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_tailwindcss_vite",
+      "type": "file",
+      "file": "@tailwindcssvite@4.1.17.md",
+      "x": 620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_types_react",
+      "type": "file",
+      "file": "@typesreact.md",
+      "x": 820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_types_react_dom",
+      "type": "file",
+      "file": "@typesreact-dom.md",
+      "x": 1020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_types_react_dom",
+      "type": "file",
+      "file": "@typesreact-dom@19.2.3.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_types_react",
+      "type": "file",
+      "file": "@typesreact@19.2.7.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_types_three",
+      "type": "file",
+      "file": "@typesthree.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_types_three",
+      "type": "file",
+      "file": "@typesthree@0.149.0.md",
+      "x": 620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_vitejs_plugin_react",
+      "type": "file",
+      "file": "@vitejsplugin-react.md",
+      "x": 820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_vitejs_plugin_react",
+      "type": "file",
+      "file": "@vitejsplugin-react@5.1.4.md",
+      "x": 1020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts_build",
+      "type": "file",
+      "file": "build.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts_deploy",
+      "type": "file",
+      "file": "deploy.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_description",
+      "type": "file",
+      "file": "description.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts_dev",
+      "type": "file",
+      "file": "dev.md",
+      "x": 620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies",
+      "type": "file",
+      "file": "devDependencies.md",
+      "x": 820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_name",
+      "type": "file",
+      "file": "name.md",
+      "x": 1020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package",
+      "type": "file",
+      "file": "package.json.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts_preview",
+      "type": "file",
+      "file": "preview.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_private",
+      "type": "file",
+      "file": "private.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts",
+      "type": "file",
+      "file": "scripts.md",
+      "x": 620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_tailwindcss",
+      "type": "file",
+      "file": "tailwindcss.md",
+      "x": 820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_tailwindcss",
+      "type": "file",
+      "file": "tailwindcss@4.1.17.md",
+      "x": 1020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_type",
+      "type": "file",
+      "file": "type.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_typescript",
+      "type": "file",
+      "file": "typescript.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_typescript",
+      "type": "file",
+      "file": "typescript@5.9.3.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_version",
+      "type": "file",
+      "file": "version.md",
+      "x": 620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_vite",
+      "type": "file",
+      "file": "vite.md",
+      "x": 820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vite_config",
+      "type": "file",
+      "file": "vite.config.ts.md",
+      "x": 1020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_vite",
+      "type": "file",
+      "file": "vite@7.3.1.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_wrangler",
+      "type": "file",
+      "file": "wrangler.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_wrangler",
+      "type": "file",
+      "file": "wrangler@4.153.0.md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Community 1",
+      "x": 1400,
+      "y": 0,
+      "width": 1320,
+      "height": 620,
+      "color": "2"
+    },
+    {
+      "id": "n_src_app_app",
+      "type": "file",
+      "file": "App().md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_app",
+      "type": "file",
+      "file": "App.tsx.md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_drivers_checks",
+      "type": "file",
+      "file": "CHECKS.md",
+      "x": 1820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_drivers_drivers",
+      "type": "file",
+      "file": "Drivers().md",
+      "x": 2020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_drivers",
+      "type": "file",
+      "file": "Drivers.tsx.md",
+      "x": 2220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_faq_faqs",
+      "type": "file",
+      "file": "FAQS.md",
+      "x": 2420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_faq_faq",
+      "type": "file",
+      "file": "Faq().md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_faq",
+      "type": "file",
+      "file": "Faq.tsx.md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui_fieldprops",
+      "type": "file",
+      "file": "FieldProps.md",
+      "x": 1820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui_glyph",
+      "type": "file",
+      "file": "Glyph().md",
+      "x": 2020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_howitworks_howitworks",
+      "type": "file",
+      "file": "HowItWorks().md",
+      "x": 2220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_howitworks",
+      "type": "file",
+      "file": "HowItWorks.tsx.md",
+      "x": 2420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ticker_items",
+      "type": "file",
+      "file": "ITEMS.md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_standards_principles",
+      "type": "file",
+      "file": "PRINCIPLES.md",
+      "x": 1620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_pricing_pricing",
+      "type": "file",
+      "file": "Pricing().md",
+      "x": 1820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_pricing",
+      "type": "file",
+      "file": "Pricing.tsx.md",
+      "x": 2020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_pricing_rows",
+      "type": "file",
+      "file": "ROWS.md",
+      "x": 2220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui_reveal",
+      "type": "file",
+      "file": "Reveal().md",
+      "x": 2420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui_revealprops",
+      "type": "file",
+      "file": "RevealProps.md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_howitworks_steps",
+      "type": "file",
+      "file": "STEPS.md",
+      "x": 1620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui_samplechip",
+      "type": "file",
+      "file": "SampleChip().md",
+      "x": 1820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui_sectionkicker",
+      "type": "file",
+      "file": "SectionKicker().md",
+      "x": 2020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_standards_standards",
+      "type": "file",
+      "file": "Standards().md",
+      "x": 2220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_standards",
+      "type": "file",
+      "file": "Standards.tsx.md",
+      "x": 2420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_howitworks_stepvisual",
+      "type": "file",
+      "file": "StepVisual().md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ticker_ticker",
+      "type": "file",
+      "file": "Ticker().md",
+      "x": 1620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ticker",
+      "type": "file",
+      "file": "Ticker.tsx.md",
+      "x": 1820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui",
+      "type": "file",
+      "file": "ui.tsx.md",
+      "x": 2020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Community 2",
+      "x": 2800,
+      "y": 0,
+      "width": 1100,
+      "height": 620,
+      "color": "3"
+    },
+    {
+      "id": "n_github_workflows_deploy_env_cloudflare_account_id",
+      "type": "file",
+      "file": "CLOUDFLARE_ACCOUNT_ID.md",
+      "x": 2820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_env_cloudflare_api_token",
+      "type": "file",
+      "file": "CLOUDFLARE_API_TOKEN.md",
+      "x": 3020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_push_branches",
+      "type": "file",
+      "file": "branches.md",
+      "x": 3220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_with_cache",
+      "type": "file",
+      "file": "cache.md",
+      "x": 3420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_concurrency_cancel_in_progress",
+      "type": "file",
+      "file": "cancel-in-progress.md",
+      "x": 3620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_concurrency",
+      "type": "file",
+      "file": "concurrency.md",
+      "x": 2820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_permissions_contents",
+      "type": "file",
+      "file": "contents.md",
+      "x": 3020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_jobs_deploy",
+      "type": "file",
+      "file": "deploy_1.md",
+      "x": 3220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy",
+      "type": "file",
+      "file": "deploy.yml.md",
+      "x": 3420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_steps_env",
+      "type": "file",
+      "file": "env.md",
+      "x": 3620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_concurrency_group",
+      "type": "file",
+      "file": "group.md",
+      "x": 2820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_jobs",
+      "type": "file",
+      "file": "jobs.md",
+      "x": 3020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_name",
+      "type": "file",
+      "file": "name_1.md",
+      "x": 3220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_steps_name",
+      "type": "file",
+      "file": "name_2.md",
+      "x": 3420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_with_node_version",
+      "type": "file",
+      "file": "node-version.md",
+      "x": 3620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_on",
+      "type": "file",
+      "file": "on.md",
+      "x": 2820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_permissions",
+      "type": "file",
+      "file": "permissions.md",
+      "x": 3020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_on_push",
+      "type": "file",
+      "file": "push.md",
+      "x": 3220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_steps_run",
+      "type": "file",
+      "file": "run.md",
+      "x": 3420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_deploy_runs_on",
+      "type": "file",
+      "file": "runs-on.md",
+      "x": 3620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_deploy_steps",
+      "type": "file",
+      "file": "steps_1.md",
+      "x": 2820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_steps_uses",
+      "type": "file",
+      "file": "uses.md",
+      "x": 3020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_steps_with",
+      "type": "file",
+      "file": "with.md",
+      "x": 3220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_github_workflows_deploy_on_workflow_dispatch",
+      "type": "file",
+      "file": "workflow_dispatch.md",
+      "x": 3420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Community 3",
+      "x": 0,
+      "y": 800,
+      "width": 1100,
+      "height": 620,
+      "color": "4"
+    },
+    {
+      "id": "n_ref_designcodeio_threeui",
+      "type": "file",
+      "file": "@designcodeiothreeui.md",
+      "x": 20,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_bookingcard_base",
+      "type": "file",
+      "file": "BASE.md",
+      "x": 220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_beamcta_beambutton",
+      "type": "file",
+      "file": "BeamButton.md",
+      "x": 420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_beamcta_beamcta",
+      "type": "file",
+      "file": "BeamCta().md",
+      "x": 620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_beamcta",
+      "type": "file",
+      "file": "BeamCta.tsx.md",
+      "x": 820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_beamcta_beamdecor",
+      "type": "file",
+      "file": "BeamDecor().md",
+      "x": 20,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_beamcta_beamlink",
+      "type": "file",
+      "file": "BeamLink.md",
+      "x": 220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_beamcta_beamprops",
+      "type": "file",
+      "file": "BeamProps.md",
+      "x": 420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_bookingcard_bookingcard",
+      "type": "file",
+      "file": "BookingCard().md",
+      "x": 620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_bookingcard",
+      "type": "file",
+      "file": "BookingCard.tsx.md",
+      "x": 820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_hero_chips",
+      "type": "file",
+      "file": "CHIPS.md",
+      "x": 20,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_beamcta_common",
+      "type": "file",
+      "file": "Common.md",
+      "x": 220,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ctaband_ctaband",
+      "type": "file",
+      "file": "CtaBand().md",
+      "x": 420,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ctaband",
+      "type": "file",
+      "file": "CtaBand.tsx.md",
+      "x": 620,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui_field",
+      "type": "file",
+      "file": "Field().md",
+      "x": 820,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_hero_hero",
+      "type": "file",
+      "file": "Hero().md",
+      "x": 20,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_hero",
+      "type": "file",
+      "file": "Hero.tsx.md",
+      "x": 220,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_bookingcard_phases",
+      "type": "file",
+      "file": "PHASES.md",
+      "x": 420,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_ui_productpreviewchip",
+      "type": "file",
+      "file": "ProductPreviewChip().md",
+      "x": 620,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_slidecta_slidecta",
+      "type": "file",
+      "file": "SlideCta().md",
+      "x": 820,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_slidecta",
+      "type": "file",
+      "file": "SlideCta.tsx.md",
+      "x": 20,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_slidecta_slidectaprops",
+      "type": "file",
+      "file": "SlideCtaProps.md",
+      "x": 220,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_bookingcard_stage",
+      "type": "file",
+      "file": "Stage.md",
+      "x": 420,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_bookingcard_peso",
+      "type": "file",
+      "file": "peso().md",
+      "x": 620,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Community 4",
+      "x": 1400,
+      "y": 800,
+      "width": 1100,
+      "height": 620,
+      "color": "5"
+    },
+    {
+      "id": "n_scripts_inspect_candidates",
+      "type": "file",
+      "file": "candidates.md",
+      "x": 1420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_mshots_candidates",
+      "type": "file",
+      "file": "candidates_1.md",
+      "x": 1620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_sections_candidates",
+      "type": "file",
+      "file": "candidates_2.md",
+      "x": 1820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_shot_candidates",
+      "type": "file",
+      "file": "candidates_3.md",
+      "x": 2020,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_clean_pages",
+      "type": "file",
+      "file": "clean-pages.mjs.md",
+      "x": 2220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_mshots_el",
+      "type": "file",
+      "file": "el.md",
+      "x": 1420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_inspect_errors",
+      "type": "file",
+      "file": "errors.md",
+      "x": 1620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_inspect_executablepath",
+      "type": "file",
+      "file": "executablePath.md",
+      "x": 1820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_mshots_executablepath",
+      "type": "file",
+      "file": "executablePath_1.md",
+      "x": 2020,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_sections_executablepath",
+      "type": "file",
+      "file": "executablePath_2.md",
+      "x": 2220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_shot_executablepath",
+      "type": "file",
+      "file": "executablePath_3.md",
+      "x": 1420,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_shot_height",
+      "type": "file",
+      "file": "height.md",
+      "x": 1620,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_inspect",
+      "type": "file",
+      "file": "inspect.mjs.md",
+      "x": 1820,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_mshots",
+      "type": "file",
+      "file": "mshots.mjs.md",
+      "x": 2020,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_clean_pages_paths",
+      "type": "file",
+      "file": "paths.md",
+      "x": 2220,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_playwright_core",
+      "type": "file",
+      "file": "playwright-core.md",
+      "x": 1420,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_playwright_core",
+      "type": "file",
+      "file": "playwright-core@1.64.1.md",
+      "x": 1620,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_node_fs",
+      "type": "file",
+      "file": "ref_node_fs.md",
+      "x": 1820,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_sections_sections",
+      "type": "file",
+      "file": "sections.md",
+      "x": 2020,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_sections",
+      "type": "file",
+      "file": "sections.mjs.md",
+      "x": 2220,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_shot",
+      "type": "file",
+      "file": "shot.mjs.md",
+      "x": 1420,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_scripts_shot_width",
+      "type": "file",
+      "file": "width.md",
+      "x": 1620,
+      "y": 1200,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Community 5",
+      "x": 2800,
+      "y": 800,
+      "width": 1100,
+      "height": 520,
+      "color": "6"
+    },
+    {
+      "id": "n_tsconfig_compileroptions_allowimportingtsextensions",
+      "type": "file",
+      "file": "allowImportingTsExtensions.md",
+      "x": 2820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions",
+      "type": "file",
+      "file": "compilerOptions.md",
+      "x": 3020,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_include",
+      "type": "file",
+      "file": "include.md",
+      "x": 3220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_jsx",
+      "type": "file",
+      "file": "jsx.md",
+      "x": 3420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_lib",
+      "type": "file",
+      "file": "lib.md",
+      "x": 3620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_module",
+      "type": "file",
+      "file": "module.md",
+      "x": 2820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_moduledetection",
+      "type": "file",
+      "file": "moduleDetection.md",
+      "x": 3020,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_moduleresolution",
+      "type": "file",
+      "file": "moduleResolution.md",
+      "x": 3220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_noemit",
+      "type": "file",
+      "file": "noEmit.md",
+      "x": 3420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_nofallthroughcasesinswitch",
+      "type": "file",
+      "file": "noFallthroughCasesInSwitch.md",
+      "x": 3620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_nouncheckedsideeffectimports",
+      "type": "file",
+      "file": "noUncheckedSideEffectImports.md",
+      "x": 2820,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_nounusedlocals",
+      "type": "file",
+      "file": "noUnusedLocals.md",
+      "x": 3020,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_nounusedparameters",
+      "type": "file",
+      "file": "noUnusedParameters.md",
+      "x": 3220,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_skiplibcheck",
+      "type": "file",
+      "file": "skipLibCheck.md",
+      "x": 3420,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_strict",
+      "type": "file",
+      "file": "strict.md",
+      "x": 3620,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_target",
+      "type": "file",
+      "file": "target.md",
+      "x": 2820,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig",
+      "type": "file",
+      "file": "tsconfig.json.md",
+      "x": 3020,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_types",
+      "type": "file",
+      "file": "types.md",
+      "x": 3220,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_usedefineforclassfields",
+      "type": "file",
+      "file": "useDefineForClassFields.md",
+      "x": 3420,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_compileroptions_verbatimmodulesyntax",
+      "type": "file",
+      "file": "verbatimModuleSyntax.md",
+      "x": 3620,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Community 6",
+      "x": 0,
+      "y": 1500,
+      "width": 880,
+      "height": 520,
+      "color": "1"
+    },
+    {
+      "id": "n_package_dependencies_designcodeio_threeui",
+      "type": "file",
+      "file": "@designcodeiothreeui@1.2.0.md",
+      "x": 20,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_fontsource_variable_inter",
+      "type": "file",
+      "file": "@fontsource-variableinter.md",
+      "x": 220,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_fontsource_variable_inter",
+      "type": "file",
+      "file": "@fontsource-variableinter@5.2.8.md",
+      "x": 420,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_fontsource_variable_onest",
+      "type": "file",
+      "file": "@fontsource-variableonest.md",
+      "x": 620,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_fontsource_variable_onest",
+      "type": "file",
+      "file": "@fontsource-variableonest@5.2.8.md",
+      "x": 20,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_fontsource_fragment_mono",
+      "type": "file",
+      "file": "@fontsourcefragment-mono.md",
+      "x": 220,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_fontsource_fragment_mono",
+      "type": "file",
+      "file": "@fontsourcefragment-mono@5.2.8.md",
+      "x": 420,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies",
+      "type": "file",
+      "file": "dependencies.md",
+      "x": 620,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_main",
+      "type": "file",
+      "file": "main.tsx.md",
+      "x": 20,
+      "y": 1740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_react",
+      "type": "file",
+      "file": "react.md",
+      "x": 220,
+      "y": 1740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_react_dom",
+      "type": "file",
+      "file": "react-dom.md",
+      "x": 420,
+      "y": 1740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_react_dom",
+      "type": "file",
+      "file": "react-dom@19.2.0.md",
+      "x": 620,
+      "y": 1740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_react",
+      "type": "file",
+      "file": "react@19.2.0.md",
+      "x": 20,
+      "y": 1820,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_index",
+      "type": "file",
+      "file": "src_index.md",
+      "x": 220,
+      "y": 1820,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_three",
+      "type": "file",
+      "file": "three.md",
+      "x": 420,
+      "y": 1820,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_three",
+      "type": "file",
+      "file": "three@0.149.0.md",
+      "x": 620,
+      "y": 1820,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Community 7",
+      "x": 1400,
+      "y": 1500,
+      "width": 880,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "n_src_components_nav_brand",
+      "type": "file",
+      "file": "Brand().md",
+      "x": 1420,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_nav_brandmark",
+      "type": "file",
+      "file": "BrandMark().md",
+      "x": 1620,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_footer_cols",
+      "type": "file",
+      "file": "COLS.md",
+      "x": 1820,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_footer_footer",
+      "type": "file",
+      "file": "Footer().md",
+      "x": 2020,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_footer",
+      "type": "file",
+      "file": "Footer.tsx.md",
+      "x": 1420,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_nav_links",
+      "type": "file",
+      "file": "LINKS.md",
+      "x": 1620,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_nav_nav",
+      "type": "file",
+      "file": "Nav().md",
+      "x": 1820,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_nav",
+      "type": "file",
+      "file": "Nav.tsx.md",
+      "x": 2020,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_motion",
+      "type": "file",
+      "file": "motion.md",
+      "x": 1420,
+      "y": 1740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_motion",
+      "type": "file",
+      "file": "motion@12.23.26.md",
+      "x": 1620,
+      "y": 1740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Community 8",
+      "x": 2800,
+      "y": 1500,
+      "width": 660,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "n_src_lib_articleheadingdecode_article_heading_decode_pool",
+      "type": "file",
+      "file": "ARTICLE_HEADING_DECODE_POOL.md",
+      "x": 2820,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_articleheadingdecode_articleheadingdecodeoptions",
+      "type": "file",
+      "file": "ArticleHeadingDecodeOptions.md",
+      "x": 3020,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_usedecodeonview_decode_options",
+      "type": "file",
+      "file": "DECODE_OPTIONS.md",
+      "x": 3220,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_articleheadingdecode",
+      "type": "file",
+      "file": "articleHeadingDecode.ts.md",
+      "x": 2820,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_articleheadingdecode_clamp",
+      "type": "file",
+      "file": "clamp().md",
+      "x": 3020,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_articleheadingdecode_easeout",
+      "type": "file",
+      "file": "easeOut().md",
+      "x": 3220,
+      "y": 1660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_articleheadingdecode_startarticleheadingdecode",
+      "type": "file",
+      "file": "startArticleHeadingDecode().md",
+      "x": 2820,
+      "y": 1740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_usedecodeonview_usedecodeonview",
+      "type": "file",
+      "file": "useDecodeOnView().md",
+      "x": 3020,
+      "y": 1740,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_lib_usedecodeonview",
+      "type": "file",
+      "file": "useDecodeOnView.ts.md",
+      "x": 3220,
+      "y": 1740,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_src_components_ui_src_components_ui_fieldprops",
+      "fromNode": "n_src_components_ui",
+      "toNode": "n_src_components_ui_fieldprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_src_components_ui_revealprops",
+      "fromNode": "n_src_components_ui",
+      "toNode": "n_src_components_ui_revealprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_beamcta_src_components_beamcta_beambutton",
+      "fromNode": "n_src_components_beamcta",
+      "toNode": "n_src_components_beamcta_beambutton",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_beamcta_src_components_beamcta_beamlink",
+      "fromNode": "n_src_components_beamcta",
+      "toNode": "n_src_components_beamcta_beamlink",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_beamcta_src_components_beamcta_beamprops",
+      "fromNode": "n_src_components_beamcta",
+      "toNode": "n_src_components_beamcta_beamprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_beamcta_src_components_beamcta_common",
+      "fromNode": "n_src_components_beamcta",
+      "toNode": "n_src_components_beamcta_common",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_src_components_bookingcard_stage",
+      "fromNode": "n_src_components_bookingcard",
+      "toNode": "n_src_components_bookingcard_stage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_slidecta_src_components_slidecta_slidectaprops",
+      "fromNode": "n_src_components_slidecta",
+      "toNode": "n_src_components_slidecta_slidectaprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_articleheadingdecode_src_lib_articleheadingdecode_articleheadingdecodeoptions",
+      "fromNode": "n_src_lib_articleheadingdecode",
+      "toNode": "n_src_lib_articleheadingdecode_articleheadingdecodeoptions",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_nav_nav",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_nav_nav",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_hero_hero",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_hero_hero",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_ticker_ticker",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_ticker_ticker",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_howitworks_howitworks",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_howitworks_howitworks",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_drivers_drivers",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_drivers_drivers",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_pricing_pricing",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_pricing_pricing",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_standards_standards",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_standards_standards",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_faq_faq",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_faq_faq",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_ctaband_ctaband",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_ctaband_ctaband",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_components_footer_footer",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_components_footer_footer",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_main_src_app_app",
+      "fromNode": "n_src_main",
+      "toNode": "n_src_app_app",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_app_app",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_app_app",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_drivers_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_drivers_drivers",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_drivers_src_components_ui_reveal",
+      "fromNode": "n_src_components_drivers_drivers",
+      "toNode": "n_src_components_ui_reveal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_drivers_src_components_ui_glyph",
+      "fromNode": "n_src_components_drivers_drivers",
+      "toNode": "n_src_components_ui_glyph",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_drivers_src_components_ui_samplechip",
+      "fromNode": "n_src_components_drivers_drivers",
+      "toNode": "n_src_components_ui_samplechip",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_drivers_drivers",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_drivers_drivers",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_src_components_drivers_drivers",
+      "fromNode": "n_src_components_drivers",
+      "toNode": "n_src_components_drivers_drivers",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_faq_faq_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_faq_faq",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_faq_faq",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_faq_faq",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_faq_src_components_faq_faq",
+      "fromNode": "n_src_components_faq",
+      "toNode": "n_src_components_faq_faq",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_howitworks_howitworks_src_components_ui_reveal",
+      "fromNode": "n_src_components_howitworks_howitworks",
+      "toNode": "n_src_components_ui_reveal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_howitworks_howitworks_src_components_howitworks_stepvisual",
+      "fromNode": "n_src_components_howitworks_howitworks",
+      "toNode": "n_src_components_howitworks_stepvisual",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_howitworks_howitworks_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_howitworks_howitworks",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_howitworks_howitworks",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_howitworks_howitworks",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_howitworks_src_components_howitworks_howitworks",
+      "fromNode": "n_src_components_howitworks",
+      "toNode": "n_src_components_howitworks_howitworks",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_howitworks_src_components_howitworks_stepvisual",
+      "fromNode": "n_src_components_howitworks",
+      "toNode": "n_src_components_howitworks_stepvisual",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_pricing_pricing_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_pricing_pricing",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_pricing_pricing_src_components_ui_reveal",
+      "fromNode": "n_src_components_pricing_pricing",
+      "toNode": "n_src_components_ui_reveal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_pricing_pricing",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_pricing_pricing",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_pricing_src_components_pricing_pricing",
+      "fromNode": "n_src_components_pricing",
+      "toNode": "n_src_components_pricing_pricing",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_standards_standards_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_standards_standards",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_standards_standards_src_components_ui_reveal",
+      "fromNode": "n_src_components_standards_standards",
+      "toNode": "n_src_components_ui_reveal",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_standards_standards_src_components_ui_glyph",
+      "fromNode": "n_src_components_standards_standards",
+      "toNode": "n_src_components_ui_glyph",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_standards_standards_src_components_ui_field",
+      "fromNode": "n_src_components_standards_standards",
+      "toNode": "n_src_components_ui_field",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_standards_standards",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_standards_standards",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_standards_src_components_standards_standards",
+      "fromNode": "n_src_components_standards",
+      "toNode": "n_src_components_standards_standards",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_ticker_ticker",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_ticker_ticker",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ticker_src_components_ticker_ticker",
+      "fromNode": "n_src_components_ticker",
+      "toNode": "n_src_components_ticker_ticker",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_bookingcard_src_components_ui_glyph",
+      "fromNode": "n_src_components_bookingcard_bookingcard",
+      "toNode": "n_src_components_ui_glyph",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_hero_src_components_ui_glyph",
+      "fromNode": "n_src_components_hero_hero",
+      "toNode": "n_src_components_ui_glyph",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_src_components_ui_glyph",
+      "fromNode": "n_src_components_bookingcard",
+      "toNode": "n_src_components_ui_glyph",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_src_components_ui_glyph",
+      "fromNode": "n_src_components_drivers",
+      "toNode": "n_src_components_ui_glyph",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_src_components_ui_glyph",
+      "fromNode": "n_src_components_hero",
+      "toNode": "n_src_components_ui_glyph",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_standards_src_components_ui_glyph",
+      "fromNode": "n_src_components_standards",
+      "toNode": "n_src_components_ui_glyph",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_src_components_ui_glyph",
+      "fromNode": "n_src_components_ui",
+      "toNode": "n_src_components_ui_glyph",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_src_components_ui_reveal",
+      "fromNode": "n_src_components_drivers",
+      "toNode": "n_src_components_ui_reveal",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_howitworks_src_components_ui_reveal",
+      "fromNode": "n_src_components_howitworks",
+      "toNode": "n_src_components_ui_reveal",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_pricing_src_components_ui_reveal",
+      "fromNode": "n_src_components_pricing",
+      "toNode": "n_src_components_ui_reveal",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_standards_src_components_ui_reveal",
+      "fromNode": "n_src_components_standards",
+      "toNode": "n_src_components_ui_reveal",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_src_components_ui_reveal",
+      "fromNode": "n_src_components_ui",
+      "toNode": "n_src_components_ui_reveal",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_src_components_ui_samplechip",
+      "fromNode": "n_src_components_drivers",
+      "toNode": "n_src_components_ui_samplechip",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_src_components_ui_samplechip",
+      "fromNode": "n_src_components_ui",
+      "toNode": "n_src_components_ui_samplechip",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ctaband_ctaband_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_ctaband_ctaband",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_hero_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_hero_hero",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_sectionkicker_src_lib_usedecodeonview_usedecodeonview",
+      "fromNode": "n_src_components_ui_sectionkicker",
+      "toNode": "n_src_lib_usedecodeonview_usedecodeonview",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ctaband_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_ctaband",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_drivers",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_faq_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_faq",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_hero",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_howitworks_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_howitworks",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_pricing_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_pricing",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_standards_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_standards",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_src_components_ui_sectionkicker",
+      "fromNode": "n_src_components_ui",
+      "toNode": "n_src_components_ui_sectionkicker",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_beamcta_beamcta_src_components_beamcta_beamdecor",
+      "fromNode": "n_src_components_beamcta_beamcta",
+      "toNode": "n_src_components_beamcta_beamdecor",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_bookingcard_src_components_beamcta_beamcta",
+      "fromNode": "n_src_components_bookingcard_bookingcard",
+      "toNode": "n_src_components_beamcta_beamcta",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ctaband_ctaband_src_components_beamcta_beamcta",
+      "fromNode": "n_src_components_ctaband_ctaband",
+      "toNode": "n_src_components_beamcta_beamcta",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_hero_src_components_beamcta_beamcta",
+      "fromNode": "n_src_components_hero_hero",
+      "toNode": "n_src_components_beamcta_beamcta",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_nav_nav_src_components_beamcta_beamcta",
+      "fromNode": "n_src_components_nav_nav",
+      "toNode": "n_src_components_beamcta_beamcta",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_src_components_beamcta_beamcta",
+      "fromNode": "n_src_components_bookingcard",
+      "toNode": "n_src_components_beamcta_beamcta",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ctaband_src_components_beamcta_beamcta",
+      "fromNode": "n_src_components_ctaband",
+      "toNode": "n_src_components_beamcta_beamcta",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_src_components_beamcta_beamcta",
+      "fromNode": "n_src_components_hero",
+      "toNode": "n_src_components_beamcta_beamcta",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_nav_src_components_beamcta_beamcta",
+      "fromNode": "n_src_components_nav",
+      "toNode": "n_src_components_beamcta_beamcta",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_beamcta_src_components_beamcta_beamcta",
+      "fromNode": "n_src_components_beamcta",
+      "toNode": "n_src_components_beamcta_beamcta",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_beamcta_src_components_beamcta_beamdecor",
+      "fromNode": "n_src_components_beamcta",
+      "toNode": "n_src_components_beamcta_beamdecor",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_bookingcard_src_components_bookingcard_peso",
+      "fromNode": "n_src_components_bookingcard_bookingcard",
+      "toNode": "n_src_components_bookingcard_peso",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_bookingcard_src_components_ui_productpreviewchip",
+      "fromNode": "n_src_components_bookingcard_bookingcard",
+      "toNode": "n_src_components_ui_productpreviewchip",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_hero_src_components_bookingcard_bookingcard",
+      "fromNode": "n_src_components_hero_hero",
+      "toNode": "n_src_components_bookingcard_bookingcard",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_src_components_bookingcard_bookingcard",
+      "fromNode": "n_src_components_hero",
+      "toNode": "n_src_components_bookingcard_bookingcard",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_src_components_bookingcard_bookingcard",
+      "fromNode": "n_src_components_bookingcard",
+      "toNode": "n_src_components_bookingcard_bookingcard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_src_components_bookingcard_peso",
+      "fromNode": "n_src_components_bookingcard",
+      "toNode": "n_src_components_bookingcard_peso",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ctaband_ctaband_src_components_ui_field",
+      "fromNode": "n_src_components_ctaband_ctaband",
+      "toNode": "n_src_components_ui_field",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ctaband_ctaband_src_components_slidecta_slidecta",
+      "fromNode": "n_src_components_ctaband_ctaband",
+      "toNode": "n_src_components_slidecta_slidecta",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_ctaband_ctaband",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_ctaband_ctaband",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ctaband_src_components_ctaband_ctaband",
+      "fromNode": "n_src_components_ctaband",
+      "toNode": "n_src_components_ctaband_ctaband",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_hero_src_components_ui_field",
+      "fromNode": "n_src_components_hero_hero",
+      "toNode": "n_src_components_ui_field",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_hero_src_components_slidecta_slidecta",
+      "fromNode": "n_src_components_hero_hero",
+      "toNode": "n_src_components_slidecta_slidecta",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_hero_hero",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_hero_hero",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_src_components_hero_hero",
+      "fromNode": "n_src_components_hero",
+      "toNode": "n_src_components_hero_hero",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ctaband_src_components_slidecta_slidecta",
+      "fromNode": "n_src_components_ctaband",
+      "toNode": "n_src_components_slidecta_slidecta",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_src_components_slidecta_slidecta",
+      "fromNode": "n_src_components_hero",
+      "toNode": "n_src_components_slidecta_slidecta",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_slidecta_src_components_slidecta_slidecta",
+      "fromNode": "n_src_components_slidecta",
+      "toNode": "n_src_components_slidecta_slidecta",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ctaband_src_components_ui_field",
+      "fromNode": "n_src_components_ctaband",
+      "toNode": "n_src_components_ui_field",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_hero_src_components_ui_field",
+      "fromNode": "n_src_components_hero",
+      "toNode": "n_src_components_ui_field",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_standards_src_components_ui_field",
+      "fromNode": "n_src_components_standards",
+      "toNode": "n_src_components_ui_field",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_src_components_ui_field",
+      "fromNode": "n_src_components_ui",
+      "toNode": "n_src_components_ui_field",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_bookingcard_src_components_ui_productpreviewchip",
+      "fromNode": "n_src_components_bookingcard",
+      "toNode": "n_src_components_ui_productpreviewchip",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_src_components_ui_productpreviewchip",
+      "fromNode": "n_src_components_ui",
+      "toNode": "n_src_components_ui_productpreviewchip",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_footer_footer_src_components_nav_brand",
+      "fromNode": "n_src_components_footer_footer",
+      "toNode": "n_src_components_nav_brand",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_footer_footer",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_footer_footer",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_footer_src_components_footer_footer",
+      "fromNode": "n_src_components_footer",
+      "toNode": "n_src_components_footer_footer",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_nav_brand_src_components_nav_brandmark",
+      "fromNode": "n_src_components_nav_brand",
+      "toNode": "n_src_components_nav_brandmark",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_nav_nav_src_components_nav_brand",
+      "fromNode": "n_src_components_nav_nav",
+      "toNode": "n_src_components_nav_brand",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_footer_src_components_nav_brand",
+      "fromNode": "n_src_components_footer",
+      "toNode": "n_src_components_nav_brand",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_nav_src_components_nav_brand",
+      "fromNode": "n_src_components_nav",
+      "toNode": "n_src_components_nav_brand",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_nav_src_components_nav_brandmark",
+      "fromNode": "n_src_components_nav",
+      "toNode": "n_src_components_nav_brandmark",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_nav_nav",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_nav_nav",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_nav_src_components_nav_nav",
+      "fromNode": "n_src_components_nav",
+      "toNode": "n_src_components_nav_nav",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_articleheadingdecode_startarticleheadingdecode_src_lib_articleheadingdecode_clamp",
+      "fromNode": "n_src_lib_articleheadingdecode_startarticleheadingdecode",
+      "toNode": "n_src_lib_articleheadingdecode_clamp",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_articleheadingdecode_src_lib_articleheadingdecode_clamp",
+      "fromNode": "n_src_lib_articleheadingdecode",
+      "toNode": "n_src_lib_articleheadingdecode_clamp",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_articleheadingdecode_startarticleheadingdecode_src_lib_articleheadingdecode_easeout",
+      "fromNode": "n_src_lib_articleheadingdecode_startarticleheadingdecode",
+      "toNode": "n_src_lib_articleheadingdecode_easeout",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_articleheadingdecode_src_lib_articleheadingdecode_easeout",
+      "fromNode": "n_src_lib_articleheadingdecode",
+      "toNode": "n_src_lib_articleheadingdecode_easeout",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_usedecodeonview_usedecodeonview_src_lib_articleheadingdecode_startarticleheadingdecode",
+      "fromNode": "n_src_lib_usedecodeonview_usedecodeonview",
+      "toNode": "n_src_lib_articleheadingdecode_startarticleheadingdecode",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_usedecodeonview_src_lib_articleheadingdecode_startarticleheadingdecode",
+      "fromNode": "n_src_lib_usedecodeonview",
+      "toNode": "n_src_lib_articleheadingdecode_startarticleheadingdecode",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_articleheadingdecode_src_lib_articleheadingdecode_startarticleheadingdecode",
+      "fromNode": "n_src_lib_articleheadingdecode",
+      "toNode": "n_src_lib_articleheadingdecode_startarticleheadingdecode",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_ui_src_lib_usedecodeonview_usedecodeonview",
+      "fromNode": "n_src_components_ui",
+      "toNode": "n_src_lib_usedecodeonview_usedecodeonview",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_lib_usedecodeonview_src_lib_usedecodeonview_usedecodeonview",
+      "fromNode": "n_src_lib_usedecodeonview",
+      "toNode": "n_src_lib_usedecodeonview_usedecodeonview",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_designcodeio_threeui",
+      "fromNode": "n_package",
+      "toNode": "n_ref_designcodeio_threeui",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_fontsource_variable_inter",
+      "fromNode": "n_package",
+      "toNode": "n_ref_fontsource_variable_inter",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_fontsource_variable_onest",
+      "fromNode": "n_package",
+      "toNode": "n_ref_fontsource_variable_onest",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_fontsource_fragment_mono",
+      "fromNode": "n_package",
+      "toNode": "n_ref_fontsource_fragment_mono",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_motion",
+      "fromNode": "n_package",
+      "toNode": "n_ref_motion",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_react",
+      "fromNode": "n_package",
+      "toNode": "n_ref_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_react_dom",
+      "fromNode": "n_package",
+      "toNode": "n_ref_react_dom",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_three",
+      "fromNode": "n_package",
+      "toNode": "n_ref_three",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_cloudflare_vite_plugin",
+      "fromNode": "n_package",
+      "toNode": "n_ref_cloudflare_vite_plugin",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_tailwindcss_vite",
+      "fromNode": "n_package",
+      "toNode": "n_ref_tailwindcss_vite",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_types_react",
+      "fromNode": "n_package",
+      "toNode": "n_ref_types_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_types_react_dom",
+      "fromNode": "n_package",
+      "toNode": "n_ref_types_react_dom",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_types_three",
+      "fromNode": "n_package",
+      "toNode": "n_ref_types_three",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_vitejs_plugin_react",
+      "fromNode": "n_package",
+      "toNode": "n_ref_vitejs_plugin_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_playwright_core",
+      "fromNode": "n_package",
+      "toNode": "n_ref_playwright_core",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_tailwindcss",
+      "fromNode": "n_package",
+      "toNode": "n_ref_tailwindcss",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_typescript",
+      "fromNode": "n_package",
+      "toNode": "n_ref_typescript",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_vite",
+      "fromNode": "n_package",
+      "toNode": "n_ref_vite",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_ref_wrangler",
+      "fromNode": "n_package",
+      "toNode": "n_ref_wrangler",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_dependencies",
+      "fromNode": "n_package",
+      "toNode": "n_package_dependencies",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_name",
+      "fromNode": "n_package",
+      "toNode": "n_package_name",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_devdependencies",
+      "fromNode": "n_package",
+      "toNode": "n_package_devdependencies",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_private",
+      "fromNode": "n_package",
+      "toNode": "n_package_private",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_version",
+      "fromNode": "n_package",
+      "toNode": "n_package_version",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_type",
+      "fromNode": "n_package",
+      "toNode": "n_package_type",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_description",
+      "fromNode": "n_package",
+      "toNode": "n_package_description",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_scripts",
+      "fromNode": "n_package",
+      "toNode": "n_package_scripts",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_cloudflare_vite_plugin",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_cloudflare_vite_plugin",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_tailwindcss_vite",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_tailwindcss_vite",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_types_react",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_types_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_types_react_dom",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_types_react_dom",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_types_three",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_types_three",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_vitejs_plugin_react",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_vitejs_plugin_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_playwright_core",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_playwright_core",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_tailwindcss",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_tailwindcss",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_typescript",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_typescript",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_vite",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_vite",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_wrangler",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_wrangler",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_cloudflare_vite_plugin_ref_cloudflare_vite_plugin",
+      "fromNode": "n_package_devdependencies_cloudflare_vite_plugin",
+      "toNode": "n_ref_cloudflare_vite_plugin",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_tailwindcss_ref_tailwindcss",
+      "fromNode": "n_package_devdependencies_tailwindcss",
+      "toNode": "n_ref_tailwindcss",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_tailwindcss_vite_ref_tailwindcss_vite",
+      "fromNode": "n_package_devdependencies_tailwindcss_vite",
+      "toNode": "n_ref_tailwindcss_vite",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_types_react_ref_types_react",
+      "fromNode": "n_package_devdependencies_types_react",
+      "toNode": "n_ref_types_react",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_types_react_dom_ref_types_react_dom",
+      "fromNode": "n_package_devdependencies_types_react_dom",
+      "toNode": "n_ref_types_react_dom",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_types_three_ref_types_three",
+      "fromNode": "n_package_devdependencies_types_three",
+      "toNode": "n_ref_types_three",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_typescript_ref_typescript",
+      "fromNode": "n_package_devdependencies_typescript",
+      "toNode": "n_ref_typescript",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_vite_ref_vite",
+      "fromNode": "n_package_devdependencies_vite",
+      "toNode": "n_ref_vite",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_vitejs_plugin_react_ref_vitejs_plugin_react",
+      "fromNode": "n_package_devdependencies_vitejs_plugin_react",
+      "toNode": "n_ref_vitejs_plugin_react",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_wrangler_ref_wrangler",
+      "fromNode": "n_package_devdependencies_wrangler",
+      "toNode": "n_ref_wrangler",
+      "label": "declares [EXTRACTED]"
+    },
+    {
+      "id": "e_package_scripts_package_scripts_preview",
+      "fromNode": "n_package_scripts",
+      "toNode": "n_package_scripts_preview",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_scripts_package_scripts_deploy",
+      "fromNode": "n_package_scripts",
+      "toNode": "n_package_scripts_deploy",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_scripts_package_scripts_dev",
+      "fromNode": "n_package_scripts",
+      "toNode": "n_package_scripts_dev",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_scripts_package_scripts_build",
+      "fromNode": "n_package_scripts",
+      "toNode": "n_package_scripts_build",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_vite_config_ref_vite",
+      "fromNode": "n_vite_config",
+      "toNode": "n_ref_vite",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_vite_config_ref_vitejs_plugin_react",
+      "fromNode": "n_vite_config",
+      "toNode": "n_ref_vitejs_plugin_react",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_vite_config_ref_tailwindcss_vite",
+      "fromNode": "n_vite_config",
+      "toNode": "n_ref_tailwindcss_vite",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_vite_config_ref_cloudflare_vite_plugin",
+      "fromNode": "n_vite_config",
+      "toNode": "n_ref_cloudflare_vite_plugin",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_nav",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_nav",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_footer",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_footer",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_hero",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_hero",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_ticker",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_ticker",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_howitworks",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_howitworks",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_drivers",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_drivers",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_pricing",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_pricing",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_standards",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_standards",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_faq",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_faq",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_ctaband",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_ctaband",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_main_src_app",
+      "fromNode": "n_src_main",
+      "toNode": "n_src_app",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_src_components_ui",
+      "fromNode": "n_src_components_drivers",
+      "toNode": "n_src_components_ui",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_drivers_src_components_drivers_checks",
+      "fromNode": "n_src_components_drivers",
+      "toNode": "n_src_components_drivers_checks",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_faq_src_components_ui",
+      "fromNode": "n_src_components_faq",
+      "toNode": "n_src_components_ui",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_faq_src_components_faq_faqs",
+      "fromNode": "n_src_components_faq",
+      "toNode": "n_src_components_faq_faqs",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_howitworks_src_components_ui",
+      "fromNode": "n_src_components_howitworks",
+      "toNode": "n_src_components_ui",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_howitworks_src_components_howitworks_steps",
+      "fromNode": "n_src_components_howitworks",
+      "toNode": "n_src_components_howitworks_steps",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_pricing_src_components_ui",
+      "fromNode": "n_src_components_pricing",
+      "toNode": "n_src_components_ui",
+      "label": "imports_from [EXTRACTED]"
+    }
+  ]
+}

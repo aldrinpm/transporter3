@@ -1,0 +1,365 @@
+{
+  "communities": {
+    "0": [
+      "package",
+      "package_description",
+      "package_devdependencies",
+      "package_devdependencies_cloudflare_vite_plugin",
+      "package_devdependencies_tailwindcss",
+      "package_devdependencies_tailwindcss_vite",
+      "package_devdependencies_types_react",
+      "package_devdependencies_types_react_dom",
+      "package_devdependencies_types_three",
+      "package_devdependencies_typescript",
+      "package_devdependencies_vite",
+      "package_devdependencies_vitejs_plugin_react",
+      "package_devdependencies_wrangler",
+      "package_name",
+      "package_private",
+      "package_scripts",
+      "package_scripts_build",
+      "package_scripts_deploy",
+      "package_scripts_dev",
+      "package_scripts_preview",
+      "package_type",
+      "package_version",
+      "ref_cloudflare_vite_plugin",
+      "ref_tailwindcss",
+      "ref_tailwindcss_vite",
+      "ref_types_react",
+      "ref_types_react_dom",
+      "ref_types_three",
+      "ref_typescript",
+      "ref_vite",
+      "ref_vitejs_plugin_react",
+      "ref_wrangler",
+      "vite_config"
+    ],
+    "1": [
+      "src_app",
+      "src_app_app",
+      "src_components_drivers",
+      "src_components_drivers_checks",
+      "src_components_drivers_drivers",
+      "src_components_faq",
+      "src_components_faq_faq",
+      "src_components_faq_faqs",
+      "src_components_howitworks",
+      "src_components_howitworks_howitworks",
+      "src_components_howitworks_steps",
+      "src_components_howitworks_stepvisual",
+      "src_components_pricing",
+      "src_components_pricing_pricing",
+      "src_components_pricing_rows",
+      "src_components_standards",
+      "src_components_standards_principles",
+      "src_components_standards_standards",
+      "src_components_ticker",
+      "src_components_ticker_items",
+      "src_components_ticker_ticker",
+      "src_components_ui",
+      "src_components_ui_fieldprops",
+      "src_components_ui_glyph",
+      "src_components_ui_reveal",
+      "src_components_ui_revealprops",
+      "src_components_ui_samplechip",
+      "src_components_ui_sectionkicker"
+    ],
+    "2": [
+      "github_workflows_deploy",
+      "github_workflows_deploy_concurrency",
+      "github_workflows_deploy_concurrency_cancel_in_progress",
+      "github_workflows_deploy_concurrency_group",
+      "github_workflows_deploy_deploy_runs_on",
+      "github_workflows_deploy_deploy_steps",
+      "github_workflows_deploy_env_cloudflare_account_id",
+      "github_workflows_deploy_env_cloudflare_api_token",
+      "github_workflows_deploy_jobs",
+      "github_workflows_deploy_jobs_deploy",
+      "github_workflows_deploy_name",
+      "github_workflows_deploy_on",
+      "github_workflows_deploy_on_push",
+      "github_workflows_deploy_on_workflow_dispatch",
+      "github_workflows_deploy_permissions",
+      "github_workflows_deploy_permissions_contents",
+      "github_workflows_deploy_push_branches",
+      "github_workflows_deploy_steps_env",
+      "github_workflows_deploy_steps_name",
+      "github_workflows_deploy_steps_run",
+      "github_workflows_deploy_steps_uses",
+      "github_workflows_deploy_steps_with",
+      "github_workflows_deploy_with_cache",
+      "github_workflows_deploy_with_node_version"
+    ],
+    "3": [
+      "ref_designcodeio_threeui",
+      "src_components_beamcta",
+      "src_components_beamcta_beambutton",
+      "src_components_beamcta_beamcta",
+      "src_components_beamcta_beamdecor",
+      "src_components_beamcta_beamlink",
+      "src_components_beamcta_beamprops",
+      "src_components_beamcta_common",
+      "src_components_bookingcard",
+      "src_components_bookingcard_base",
+      "src_components_bookingcard_bookingcard",
+      "src_components_bookingcard_peso",
+      "src_components_bookingcard_phases",
+      "src_components_bookingcard_stage",
+      "src_components_ctaband",
+      "src_components_ctaband_ctaband",
+      "src_components_hero",
+      "src_components_hero_chips",
+      "src_components_hero_hero",
+      "src_components_slidecta",
+      "src_components_slidecta_slidecta",
+      "src_components_slidecta_slidectaprops",
+      "src_components_ui_field",
+      "src_components_ui_productpreviewchip"
+    ],
+    "4": [
+      "package_devdependencies_playwright_core",
+      "ref_node_fs",
+      "ref_playwright_core",
+      "scripts_clean_pages",
+      "scripts_clean_pages_paths",
+      "scripts_inspect",
+      "scripts_inspect_candidates",
+      "scripts_inspect_errors",
+      "scripts_inspect_executablepath",
+      "scripts_mshots",
+      "scripts_mshots_candidates",
+      "scripts_mshots_el",
+      "scripts_mshots_executablepath",
+      "scripts_sections",
+      "scripts_sections_candidates",
+      "scripts_sections_executablepath",
+      "scripts_sections_sections",
+      "scripts_shot",
+      "scripts_shot_candidates",
+      "scripts_shot_executablepath",
+      "scripts_shot_height",
+      "scripts_shot_width"
+    ],
+    "5": [
+      "tsconfig",
+      "tsconfig_compileroptions",
+      "tsconfig_compileroptions_allowimportingtsextensions",
+      "tsconfig_compileroptions_jsx",
+      "tsconfig_compileroptions_lib",
+      "tsconfig_compileroptions_module",
+      "tsconfig_compileroptions_moduledetection",
+      "tsconfig_compileroptions_moduleresolution",
+      "tsconfig_compileroptions_noemit",
+      "tsconfig_compileroptions_nofallthroughcasesinswitch",
+      "tsconfig_compileroptions_nouncheckedsideeffectimports",
+      "tsconfig_compileroptions_nounusedlocals",
+      "tsconfig_compileroptions_nounusedparameters",
+      "tsconfig_compileroptions_skiplibcheck",
+      "tsconfig_compileroptions_strict",
+      "tsconfig_compileroptions_target",
+      "tsconfig_compileroptions_types",
+      "tsconfig_compileroptions_usedefineforclassfields",
+      "tsconfig_compileroptions_verbatimmodulesyntax",
+      "tsconfig_include"
+    ],
+    "6": [
+      "package_dependencies",
+      "package_dependencies_designcodeio_threeui",
+      "package_dependencies_fontsource_fragment_mono",
+      "package_dependencies_fontsource_variable_inter",
+      "package_dependencies_fontsource_variable_onest",
+      "package_dependencies_react",
+      "package_dependencies_react_dom",
+      "package_dependencies_three",
+      "ref_fontsource_fragment_mono",
+      "ref_fontsource_variable_inter",
+      "ref_fontsource_variable_onest",
+      "ref_react",
+      "ref_react_dom",
+      "ref_three",
+      "src_index",
+      "src_main"
+    ],
+    "7": [
+      "package_dependencies_motion",
+      "ref_motion",
+      "src_components_footer",
+      "src_components_footer_cols",
+      "src_components_footer_footer",
+      "src_components_nav",
+      "src_components_nav_brand",
+      "src_components_nav_brandmark",
+      "src_components_nav_links",
+      "src_components_nav_nav"
+    ],
+    "8": [
+      "src_lib_articleheadingdecode",
+      "src_lib_articleheadingdecode_article_heading_decode_pool",
+      "src_lib_articleheadingdecode_articleheadingdecodeoptions",
+      "src_lib_articleheadingdecode_clamp",
+      "src_lib_articleheadingdecode_easeout",
+      "src_lib_articleheadingdecode_startarticleheadingdecode",
+      "src_lib_usedecodeonview",
+      "src_lib_usedecodeonview_decode_options",
+      "src_lib_usedecodeonview_usedecodeonview"
+    ]
+  },
+  "cohesion": {
+    "0": 0.08522727272727272,
+    "1": 0.17989417989417988,
+    "2": 0.08333333333333333,
+    "3": 0.15942028985507245,
+    "4": 0.1038961038961039,
+    "5": 0.1,
+    "6": 0.15833333333333333,
+    "7": 0.28888888888888886,
+    "8": 0.3333333333333333
+  },
+  "gods": [
+    {
+      "id": "tsconfig_compileroptions",
+      "label": "compilerOptions",
+      "degree": 18
+    },
+    {
+      "id": "src_components_ui_sectionkicker",
+      "label": "SectionKicker()",
+      "degree": 16
+    },
+    {
+      "id": "src_app_app",
+      "label": "App()",
+      "degree": 12
+    },
+    {
+      "id": "src_components_beamcta_beamcta",
+      "label": "BeamCta()",
+      "degree": 10
+    },
+    {
+      "id": "src_components_ui_glyph",
+      "label": "Glyph()",
+      "degree": 9
+    },
+    {
+      "id": "src_components_ui_reveal",
+      "label": "Reveal()",
+      "degree": 9
+    },
+    {
+      "id": "src_components_hero_hero",
+      "label": "Hero()",
+      "degree": 9
+    },
+    {
+      "id": "ref_react",
+      "label": "react",
+      "degree": 9
+    },
+    {
+      "id": "src_components_drivers_drivers",
+      "label": "Drivers()",
+      "degree": 7
+    },
+    {
+      "id": "src_components_standards_standards",
+      "label": "Standards()",
+      "degree": 7
+    }
+  ],
+  "surprises": [
+    {
+      "source": "App()",
+      "target": "CtaBand()",
+      "source_files": [
+        "src/App.tsx",
+        "src/components/CtaBand.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "App()",
+      "target": "Footer()",
+      "source_files": [
+        "src/App.tsx",
+        "src/components/Footer.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "App()",
+      "target": "Hero()",
+      "source_files": [
+        "src/App.tsx",
+        "src/components/Hero.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "App()",
+      "target": "Nav()",
+      "source_files": [
+        "src/App.tsx",
+        "src/components/Nav.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "Standards()",
+      "target": "Field()",
+      "source_files": [
+        "src/components/Standards.tsx",
+        "src/components/ui.tsx"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "why": "bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `react` connect `Community 6` to `Community 0`, `Community 1`, `Community 3`, `Community 7`, `Community 8`?",
+      "why": "High betweenness centrality (0.163) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08522727272727272 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `playwright-core` connect `Community 4` to `Community 0`?",
+      "why": "High betweenness centrality (0.148) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 2` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.08333333333333333 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `@designcodeio/threeui` connect `Community 3` to `Community 0`, `Community 1`, `Community 6`?",
+      "why": "High betweenness centrality (0.060) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 4` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1038961038961039 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Community 5` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.1 - nodes in this community are weakly interconnected."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "show-tags": true,
+  "show-attachments": false,
+  "show-existing-files": false,
+  "show-orphan": true,
+  "collapse-color-groups": false,
+  "color-groups": [
+    {
+      "query": "path:\"Codebase Map\"",
+      "color": {
+        "a": 1,
+        "rgb": 16750335
+      }
+    },
+    {
+      "query": "path:graphify-out",
+      "color": {
+        "a": 1,
+        "rgb": 6684726
+      }
+    },
+    {
+      "query": "path:Decisions",
+      "color": {
+        "a": 1,
+        "rgb": 11308368
+      }
+    },
+    {
+      "query": "file:Home",
+      "color": {
+        "a": 1,
+        "rgb": 15803634
+      }
+    }
+  ],
+  "collapse-display": true,
+  "show-arrow": false,
+  "text-fade-amount": 4,
+  "text-fade-duration": 3,
+  "node-size-multiplier": 0.8,
+  "link-size-multiplier": 1,
+  "center-strength": 0.6,
+  "repel-strength": 3,
+  "link-strength": 0.6,
+  "gravity": 0.2
+}

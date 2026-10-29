@@ -157,6 +157,36 @@ src/
 Design tokens live at the top of `src/index.css` (`--bg-0`, `--amber`, `--ink`, fonts) —
 restyling is mostly a token edit plus the few per-scene filters noted above.
 
+## Project memory: Obsidian vault + Graphify
+
+The repo **root is an Obsidian vault** (`.obsidian/` config is committed; open `transporter3` as a
+folder vault). This closes the charter's "Obsidian project memory" line — rationale in
+`Decisions/ADR-0001 - Obsidian vault + Graphify.md`:
+
+| Note | Purpose |
+| --- | --- |
+| `Home.md` | dashboard: map links, freshness, housekeeping commands |
+| `Status.md` | living status: current phase, MVP checklist, next 3 priorities, open questions |
+| `Architecture.md` | hand-written tour: god nodes + hand-named graph communities |
+| `Decisions/ADR-*.md` | decision log (template in `Templates/`) |
+
+The machine view is a [Graphify](https://github.com/Graphify-Labs/graphify) knowledge graph
+(tree-sitter AST, fully local, 0 LLM tokens), committed under `graphify-out/`:
+
+- `graph.html` — interactive force-directed map: click nodes, filter, search (open in any browser)
+- `GRAPH_TREE.html` — collapsible D3 file tree; `GRAPH_REPORT.md` — god nodes, communities
+- `graph.json` — queryable graph; agents use it (see `AGENTS.md`, installed via
+  `graphify opencode install --project`)
+- `Codebase Map/` — 195 per-symbol Obsidian notes + `graph.canvas`, regenerable
+
+Keep it fresh:
+
+```bash
+graphify update .                                # after code changes (AST-only, no API key)
+graphify cluster-only . --no-label               # re-cluster + report + graph.html
+graphify export obsidian --dir "Codebase Map"    # re-emit notes + canvas into the vault
+```
+
 ## Credits
 
 - ThreeUI Community (ThreeUI by MengTo & contributors) — MIT — WebGL scenes, CTA/text
